@@ -1,0 +1,16 @@
+{"level":"info","message":"New mod operation requested: 10 mod 3","service":"calculator-microservice"}
+{"level":"info","message":"New mod operation requested: 10 mod 3","service":"calculator-microservice"}
+{"level":"info","message":"New mod operation requested: 10 mod -3","service":"calculator-microservice"}
+{"level":"info","message":"New sqrt operation requested: 10 sqrt -3","service":"calculator-microservice"}
+{"level":"error","message":"Error during sqrt operation: Cannot find square root of a negative number","service":"calculator-microservice"}
+{"level":"info","message":"New root operation requested: 10 root 3","service":"calculator-microservice"}
+{"level":"info","message":"New mod operation requested: 10 mod 3","service":"calculator-microservice"}
+{"level":"info","message":"New root operation requested: 16 root ","service":"calculator-microservice"}
+{"level":"info","message":"New root operation requested: 16 root ","service":"calculator-microservice"}
+{"level":"info","message":"New root operation requested: 16 root ","service":"calculator-microservice"}
+{"level":"info","message":"New root operation requested: 16 root ","service":"calculator-microservice"}
+{"level":"info","message":"New root operation requested: 16 root ","service":"calculator-microservice"}
+{"level":"info","message":"New root operation requested: 16 root ","service":"calculator-microservice"}
+{"level":"info","message":"New root operation requested: 16 root ","service":"calculator-microservice"}
+{"level":"error","message":"Error during root operation: Console.log is not a function","service":"calculator-microservice"}
+{"level":"info","message":"New root operation requested: 16 root ","service":"calculator-microservice"}

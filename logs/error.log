@@ -1,0 +1,2 @@
+{"level":"error","message":"Error during sqrt operation: Cannot find square root of a negative number","service":"calculator-microservice"}
+{"level":"error","message":"Error during root operation: Console.log is not a function","service":"calculator-microservice"}
